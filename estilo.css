@@ -1,0 +1,15 @@
+body {margin: 1%; background-color:  #99ebff;}
+.menu {display: flex; background-color: #99ebff;}
+.logo {background-position: left;}
+.barra {display: inline-flex; margin: 5%; background-position: center; color: blue; border: solid; border-color: #00b300; border-radius: 15%; text-align: center;}
+.fundacion {background-color: #ff9900; border: solid; border-color: blue; padding: 1%; margin: 2%; border-radius: 5%}
+.proyecto1 {background-color: #00b300; border: solid; border-color: blue; padding: 1%; margin: 2%; border-radius: 5%}
+.car1 {display: flex; align-items: center; justify-content: center;}
+.proyecto2 {background-color: #ff9900; border: solid; border-color: blue; padding: 1%; margin: 2%; border-radius: 5%}
+.contacto {background-color: #00b300; border: solid; border-color: blue; padding: 1%; margin: 2%; display: flex; text-align: center; margin-right: 25vw; margin-left: 25vw; border-radius: 5%;}
+.whatsapp {display: block; margin: 2%; background-position: center; border: solid; border-color: blue; border-radius: 15%; text-align: center; padding: 1%; margin-right: inherit;}
+.gmail {display: block; margin: 2%; background-position: center; border: solid; border-color: blue; border-radius: 15%; text-align: center; padding: 1%; margin-right: 25vw;}
+.ayuda {background-color: #ff9900; text-align: center; text-decoration-color: black; display: block; margin: 2%; background-position: center; border: solid; border-color: blue; border-radius: 15%; text-align: center; padding: 1%; }
+.lema {text-align: center; color: blue;}
+.carousel-inner {height: 50%; max-width: 700px;}
+.autor {background-color: #ff9900; color: white; text-decoration-color: black; display: block; margin: 2%; border: solid; border-color: blue; border-radius: 90%; text-align: center; padding: 1%; position: relative; margin-left: 25vw; margin-right: 25vw;}
